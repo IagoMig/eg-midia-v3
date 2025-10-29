@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 export function ClientsCarousel() {
-  const clients = Array.from({ length: 26 }, (_, i) => `/${i + 1}.png`);
+  const clients = Array.from({ length: 19 }, (_, i) => `/${i + 1}.png`);
   const duplicatedClients = [...clients, ...clients, ...clients, ...clients]; // mais duplicações p/ loop suave
 
   return (

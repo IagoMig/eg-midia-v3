@@ -41,7 +41,7 @@ export function Hero() {
           delay: 0.3
         }} className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-8 leading-tight drop-shadow-2xl">
             Transforme a sua marca com <br />
-            <TypeAnimation sequence={['Tráfego Pago', 2000, 'Design Criativo', 2000, 'Redes Sociais', 2000, 'Tecnologia', 2000]} wrapper="span" speed={50} repeat={Infinity} className="bg-gradient-to-r from-white via-[#E6E6E6] to-[#0094FF] bg-clip-text text-transparent" />
+            <TypeAnimation sequence={['Tráfego Pago', 2000, 'Criatividade', 2000, 'Redes Sociais', 2000, 'Tecnologia', 2000]} wrapper="span" speed={50} repeat={Infinity} className="bg-gradient-to-r from-white via-[#E6E6E6] to-[#0094FF] bg-clip-text text-transparent" />
           </motion.h1>
           <motion.p initial={{
           opacity: 0,
