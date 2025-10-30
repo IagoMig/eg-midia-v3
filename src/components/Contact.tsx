@@ -63,7 +63,7 @@ export function Contact() {
           className="text-center mb-12"
         >
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
-            Pronto para impulsionar sua marca?
+            Entre em agora em contato e solicite o seu orçamento personalizado!
           </h2>
           <p className="text-xl text-white/90 mb-8">
             Fale com a EG Mídia Digital e leve sua presença online para o próximo nível

@@ -62,7 +62,7 @@ export function Testimonials() {
             O que dizem nossos clientes
           </h2>
           <p className="text-xl text-[#1A1A1A]/70">
-            Histórias reais de sucesso e transformação
+            Histórias reais de confiança, parceria e resultados
           </p>
         </motion.div>
 

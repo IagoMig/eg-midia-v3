@@ -10,7 +10,7 @@ export function Portfolio() {
 
   const projects = [
     { image: '/portfolio/carrossel 01.png', size: 'large' },
-    { image: '/portfolio/carrossel 02.png', size: 'large' },
+    { image: '/portfolio/carrossel 02.png', size: 'tall' },
     { image: '/portfolio/02-01.png', size: 'medium' },
     { image: '/portfolio/02.11.png', size: 'medium' },
     { image: '/portfolio/07.10.png', size: 'medium' },

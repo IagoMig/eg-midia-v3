@@ -13,13 +13,13 @@ export function Process() {
     {
       icon: SearchIcon,
       title: 'Entendimento',
-      description: 'Entendemos o seu negócio',
+      description: 'Entendemos o seu negócio, público-alvo e objetivos para criar estratégias personalizadas',
       color: 'from-[#002B60] to-[#004EA8]'
     },
     {
       icon: LightbulbIcon,
       title: 'Planejamento',
-      description: 'Criamos um plano personalizado com metas claras e caminhos bem definidos para chegar lá.',
+      description: 'Criamos um plano personalizado com metas claras e caminhos bem definidos para chegar lá',
       color: 'from-[#004EA8] to-[#0094FF]'
     },
     {
